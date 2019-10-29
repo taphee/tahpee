@@ -1,0 +1,11 @@
+/cient/node_modules/*
+/venv/*
+/.venv/*
+/.aws/*
+.idea/
+*.iml
+*.iws
+*.ipr
+.terraform
+*.tfstate.backup
+*.tfstate.*.backup
