@@ -1,0 +1,67 @@
+{
+  'geometry': {
+    'location': {
+      'lat': Decimal(
+      '50.44920560000001'
+      ),
+      'lng': Decimal(
+      '30.4931945'
+      )
+    },
+    'viewport': {
+      'northeast': {
+        'lat': Decimal(
+        '50.4505929302915'
+        ),
+        'lng': Decimal(
+        '30.4946395802915'
+        )
+      },
+      'southwest': {
+        'lat': Decimal(
+        '50.4478949697085'
+        ),
+        'lng': Decimal(
+        '30.4919416197085'
+        )
+      }
+    }
+  },
+  'icon': 'https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png',
+  'id': '6ecd4cd9e20ea1313ad6de831a03651d23e7f324',
+  'name': 'Sorry Babushka',
+  'opening_hours': {
+    'open_now': True
+  },
+  'photos': [
+    {
+      'height': 2080,
+      'html_attributions': [
+        '<a href="https://maps.google.com/maps/contrib/102674925107628314647/photos">Marco Lackovic</a>'
+      ],
+      'photo_reference': 'CmRaAAAAVF8i6w-XOKZmpIoTTIOpuf-050yf5lvNOmK3ZEXYgZTT11VaurnmNq7AxoPEzE84FcFXRa_gHSCHgo8wRNboG6ymM96DjR6oA5RTkuihahKyke1JPtGHwbnbObwkUKhTEhAMd319UIc30vymmtd9t_DwGhRiUe8czvpsSFMT7jjZY_kqpgJxBA',
+      'width': 2773
+    }
+  ],
+  'place_id': 'ChIJf2uO9IrO1EAR95iFFw4BKxc',
+  'plus_code': {
+    'compound_code': 'CFXV+M7 Kyiv, Kyiv city, Ukraine',
+    'global_code': '9G2GCFXV+M7'
+  },
+  'price_level': 2,
+  'rating': Decimal(
+  '3.4'
+  ),
+  'reference': 'ChIJf2uO9IrO1EAR95iFFw4BKxc',
+  'scope': 'GOOGLE',
+  'types': [
+    'night_club',
+    'bar',
+    'restaurant',
+    'food',
+    'point_of_interest',
+    'establishment'
+  ],
+  'user_ratings_total': 387,
+  'vicinity': 'Dmytrivska Street, 18/24, Kyiv'
+}
